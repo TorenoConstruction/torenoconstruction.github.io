@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ebeaf0;
+}
+
+#id{
+background-image: url("../src/assets/project1.jpg");
+}
